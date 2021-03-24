@@ -9,7 +9,6 @@ from tqdm import tqdm, trange
 import time
 import torch
 import datetime
-import numpy as np
 from sklearn import metrics
 from sklearn.model_selection import train_test_split
 from keras.preprocessing.sequence import pad_sequences
