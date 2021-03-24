@@ -14,11 +14,15 @@
 
 
 
-*!git clone https://github.com/Mike97310/Sentiment-analysis.git* for clone Sentiment-analysis in your pc.
+*!git clone https://github.com/Mike97310/Sentiment-analysis.git* in your terminal for clone Sentiment-analysis in your pc.
 
-*!pip install requirements.text* for install all of modules you need.
+*!pip install requirements.text* in your terminal for install all of modules you need.
 
+*!export FLASK_APP=api1.py* in your terminal for flask lush in api1.py.
 
+*!flask run* in your terminal for lush the server.
+
+*ctrl + C* in your teminal for close the server.
 
 *for download the model:*
 https://we.tl/t-wagZnlg9Mf
