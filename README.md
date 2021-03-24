@@ -24,6 +24,10 @@
 
 *ctrl + C* in your teminal for close the server.
 
+
+**/choice/location** *exemple: /resaturants_bars/75* for scrape the reviews for the categorie and location of your choice.
+
+
 *for download the model:*
 https://we.tl/t-wagZnlg9Mf
 
