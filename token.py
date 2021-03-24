@@ -4,7 +4,6 @@ from textblob_fr import PatternTagger, PatternAnalyzer
 
 tb = Blobber(pos_tagger=PatternTagger(), analyzer=PatternAnalyzer())
 import torch
-import numpy as np
 from sklearn import metrics
 from sklearn.model_selection import train_test_split
 from keras.preprocessing.sequence import pad_sequences
